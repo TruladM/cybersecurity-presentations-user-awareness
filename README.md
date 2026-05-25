@@ -34,3 +34,10 @@ This repository highlights my communication skills, public presentation capabili
   * Celebrating regional milestones, highlighting the organization's successful pivot to a verified "no-kill" baseline model.
 * **Format:** Video presentation (Featuring a dedicated background rehearsal team!).
 * **Watch Here:** [▶️ Watch the Young-Williams Presentation](https://drive.google.com/file/d/1CZHtdyemEPU-WHOjjKOw7lVWADptM_iU/view?usp=drive_link)
+
+  ### 5. Conquering the Impossible: How to Fold a Fitted Sheet
+* **Objective:** An instructional demonstration breaking down the elusive, geometry-defying art of properly folding a fitted sheet to keep a linen closet organized.
+* **Core Takeaways:** * Successfully navigating the corners, pockets, and chaotic fabric of a fitted sheet on camera.
+  * Proving that if I can clearly break down and teach a universally frustrating household task, I can handle even the most unorganized data frameworks or compliance puzzles without sweating.
+* **Format:** Video presentation (Featuring a dedicated background rehearsal team!).
+* **Watch Here:** [▶️ Watch the Fitted Sheet Tutorial](https://drive.google.com/file/d/1DQWLQcAplVpa04VGcDhsrCMVsecoZnbr/view?usp=drive_link)
