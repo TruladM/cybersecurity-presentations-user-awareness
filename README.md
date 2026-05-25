@@ -1,6 +1,6 @@
 # Public Speaking, Security Awareness, & Professional Presentations
 
-This repository highlights my communication skills, public presentation capabilities, and ability to engage diverse audiences—ranging from formal cybersecurity and compliance training to high-energy personal introductions.
+This repository highlights my communication skills, public presentation capabilities, and ability to engage diverse audiences ranging from formal cybersecurity and compliance training to high-energy personal introductions.
 
 ---
 
