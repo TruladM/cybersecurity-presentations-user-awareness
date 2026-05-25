@@ -1,7 +1,8 @@
 # Public Speaking, Security Awareness, & Professional Presentations
 
-This repository highlights my communication skills, public presentation capabilities, and ability to engage diverse audiences ranging from formal cybersecurity and compliance training to high-energy personal introductions.
+This repository highlights my communication skills, public presentation capabilities, and ability to engage diverse audiences. The featured presentations were originally developed and delivered as part of formal public speaking and communications coursework, demonstrating my ability to translate complex technical concepts, compliance frameworks, and community advocacy into structured, high-impact briefings.
 
+---
 ---
 
 ## 🎤 Core Presentations Gallery
